@@ -1,4 +1,4 @@
-# Markdown Writer
+# Writer Markdown
 
 A simple Python library for generating Markdown files using Python functions.
 
@@ -11,13 +11,13 @@ A simple Python library for generating Markdown files using Python functions.
 ## Installation
 Install the package using pip:
 ```sh
-pip install markdown-writer
+pip install writer_markdown
 ```
 
 ## Usage
 ### Import the library
 ```python
-from markdown_writer import *
+from writer_markdown import *
 ```
 
 ### Create a Markdown file
@@ -42,4 +42,4 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 This project is licensed under the MIT License.
 
 ## Author
-Created by [Harsh](https://github.com/4444harsh).
+Created by [Harsh](https://github.com/4444harsh)."
